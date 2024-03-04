@@ -1,0 +1,42 @@
+[
+  {
+    "Name": "Vintage Canvas Backpack",
+    "Ratings": "4",
+    "Category": "Backpack",
+    "Description": "Durable and stylish vintage canvas backpack.",
+    "Price": 75,
+    "Image": "https://cdn.quasar.dev/img/parallax1.jpg"
+  },
+  {
+    "Name": "Traveler's Adventure Backpack",
+    "Category": "Backpack",
+    "Ratings": "5",
+    "Description": "Perfect companion for adventurous souls. Spacious and lightweight.",
+    "Price": 150,
+    "Image": "https://cdn.quasar.dev/img/parallax2.jpg"
+  },
+  {
+    "Name": "Jeans Pants",
+    "Category": "Pants",
+    "Ratings": "4",
+    "Description": "Sleek design with multiple compartments for urban explorers.",
+    "Price": 100,
+    "Image": "https://cdn.quasar.dev/img/parallax1.jpg"
+  },
+  {
+    "Name": "Hiking T-shirt",
+    "Category": "Tshirt",
+    "Ratings": "5",
+    "Description": "Designed for hikers with rugged materials and comfortable straps.",
+    "Price": 120,
+    "Image": "https://cdn.quasar.dev/img/parallax2.jpg"
+  },
+  {
+    "Name": "Sports Jersey",
+    "Category": "Tshirt",
+    "Ratings": "3",
+    "Description": "Integrated USB ports and padded compartments for tech gadgets.",
+    "Price": 200,
+    "Image": "https://cdn.quasar.dev/img/parallax1.jpg"
+  }
+]
